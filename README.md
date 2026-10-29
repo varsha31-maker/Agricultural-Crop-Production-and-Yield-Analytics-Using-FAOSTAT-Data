@@ -13,8 +13,8 @@ Develop an interactive Power BI dashboard.
 Tools and Technologies
 Python,
 Pandas and NumPy,
-Matplotlib and Seaborn.
-Google Colab
+Matplotlib and Seaborn,
+Google Colab,
 Microsoft Power BI
 
 Project Workflow
