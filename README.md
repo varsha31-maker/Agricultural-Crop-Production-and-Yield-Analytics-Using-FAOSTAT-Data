@@ -1,2 +1,3 @@
-# Agricultural-Crop-Production-and-Yield-Analytics-Using-FAOSTAT-Data
-An end-to-end agricultural data analytics project using Python, Pandas, NumPy, Matplotlib, Seaborn, and Power BI to clean and analyse crop production data, identify trends across areas and years, visualize insights, and develop an interactive dashboard for data-driven decision-making.
+Google Colab Notebook
+Explore the complete Python data analysis and visualization workflow in Google Colab.
+"Open the Agriculture Analysis Notebook" (https://colab.research.google.com/drive/1XXncTZGGJ-LsOQuO2ou-jHXCItJLQJ0y?usp=sharing)
